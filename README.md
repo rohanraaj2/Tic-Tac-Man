@@ -1,6 +1,6 @@
 # Tic-Tac-Man
 
-### Introducing to you the TIC TAC MAN:
+### Introducing to you the Tic Tac Man:
 A cool combination of the games everyone is aware of:
 Tic Tac Toe and the Hangman!
 
